@@ -14,5 +14,11 @@ ________________________________________________________________________________
 
 ## Example Outputs
 ### Dataframe Creation
+![Alt Text] https://github.com/TaylorGriggs/Crowdfunding_ETL/blob/main/Resources/DataFrame_Creation.png
 
+### ERD Creation
+![Alt Text]https://github.com/TaylorGriggs/Crowdfunding_ETL/blob/main/Resources/ERD.png
+
+### SQL Table Creation
+![Alt Text] https://github.com/TaylorGriggs/Crowdfunding_ETL/blob/main/Resources/SQL_Table_Output.png
 
