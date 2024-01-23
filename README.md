@@ -14,7 +14,7 @@ ________________________________________________________________________________
 
 ## Example Outputs
 ### Dataframe Creation
-![Alt Text] https://github.com/TaylorGriggs/Crowdfunding_ETL/blob/main/Resources/DataFrame_Creation.png
+![Alt Text]https://github.com/TaylorGriggs/Crowdfunding_ETL/blob/main/Resources/DataFrame_Creation.png?raw=true
 
 ### ERD Creation
 ![Alt Text]https://github.com/TaylorGriggs/Crowdfunding_ETL/blob/main/Resources/ERD.png
